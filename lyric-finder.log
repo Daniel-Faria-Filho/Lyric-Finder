@@ -420,3 +420,219 @@ GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.333 ms
 2025-10-16T17:45:25.132Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.7 ms)
 GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.185 ms
 2025-10-16T17:45:27.077Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.6 ms)
+2025-10-16T18:05:39.058Z Received SIGINT (Ctrl+C). Shutting down...
+2025-10-16T18:05:40.440Z Lyric-Finder listening on http://localhost:3000
+GET / 200 2391 - 5.803 ms
+2025-10-16T18:05:44.553Z [req] GET / -> 200 (6.9 ms)
+GET /Logo-No-Bg.png 404 153 - 0.551 ms
+2025-10-16T18:05:44.572Z [req] GET /Logo-No-Bg.png -> 404 (1.0 ms)
+GET /favicon.png 404 150 - 0.292 ms
+2025-10-16T18:05:44.582Z [req] GET /favicon.png -> 404 (0.6 ms)
+GET / 304 - - 0.988 ms
+2025-10-16T18:05:47.456Z [req] GET / -> 304 (1.4 ms)
+GET /Logo-No-Bg.png 404 153 - 0.186 ms
+2025-10-16T18:05:47.475Z [req] GET /Logo-No-Bg.png -> 404 (0.6 ms)
+GET / 304 - - 0.585 ms
+2025-10-16T18:05:47.872Z [req] GET / -> 304 (0.9 ms)
+GET /Logo-No-Bg.png 404 153 - 0.201 ms
+2025-10-16T18:05:47.888Z [req] GET /Logo-No-Bg.png -> 404 (0.6 ms)
+GET / 304 - - 0.778 ms
+2025-10-16T18:05:48.176Z [req] GET / -> 304 (1.2 ms)
+GET /Logo-No-Bg.png 404 153 - 0.300 ms
+2025-10-16T18:05:48.194Z [req] GET /Logo-No-Bg.png -> 404 (0.7 ms)
+GET / 304 - - 0.880 ms
+2025-10-16T18:05:48.360Z [req] GET / -> 304 (1.2 ms)
+GET /Logo-No-Bg.png 404 153 - 0.232 ms
+2025-10-16T18:05:48.375Z [req] GET /Logo-No-Bg.png -> 404 (0.5 ms)
+GET / 304 - - 0.941 ms
+2025-10-16T18:06:23.993Z [req] GET / -> 304 (1.2 ms)
+GET /Logo-No-Bg.png 404 153 - 0.138 ms
+2025-10-16T18:06:24.011Z [req] GET /Logo-No-Bg.png -> 404 (0.5 ms)
+GET / 304 - - 1.046 ms
+2025-10-16T18:06:24.947Z [req] GET / -> 304 (1.4 ms)
+GET /Logo-No-Bg.png 404 153 - 0.320 ms
+2025-10-16T18:06:24.964Z [req] GET /Logo-No-Bg.png -> 404 (0.6 ms)
+GET / 200 2390 - 0.918 ms
+2025-10-16T18:06:52.468Z [req] GET / -> 200 (1.4 ms)
+GET /Logo-NoBg.png 404 152 - 0.257 ms
+2025-10-16T18:06:52.487Z [req] GET /Logo-NoBg.png -> 404 (0.6 ms)
+GET / 304 - - 1.223 ms
+2025-10-16T18:06:53.219Z [req] GET / -> 304 (1.5 ms)
+GET /Logo-NoBg.png 404 152 - 0.203 ms
+2025-10-16T18:06:53.237Z [req] GET /Logo-NoBg.png -> 404 (0.5 ms)
+GET / 304 - - 0.897 ms
+2025-10-16T18:06:53.580Z [req] GET / -> 304 (1.2 ms)
+GET /Logo-NoBg.png 404 152 - 0.197 ms
+2025-10-16T18:06:53.598Z [req] GET /Logo-NoBg.png -> 404 (0.4 ms)
+GET / 304 - - 0.757 ms
+2025-10-16T18:06:53.747Z [req] GET / -> 304 (1.0 ms)
+GET /Logo-NoBg.png 404 152 - 0.199 ms
+2025-10-16T18:06:53.767Z [req] GET /Logo-NoBg.png -> 404 (0.5 ms)
+GET / 304 - - 0.902 ms
+2025-10-16T18:06:53.923Z [req] GET / -> 304 (1.2 ms)
+GET /Logo-NoBg.png 404 152 - 0.154 ms
+2025-10-16T18:06:53.939Z [req] GET /Logo-NoBg.png -> 404 (0.4 ms)
+GET / 200 2390 - 0.580 ms
+2025-10-16T18:06:54.145Z [req] GET / -> 200 (0.8 ms)
+GET /Logo-NoBg.png 404 152 - 0.184 ms
+2025-10-16T18:06:54.161Z [req] GET /Logo-NoBg.png -> 404 (0.5 ms)
+GET /favicon.png 404 150 - 0.150 ms
+2025-10-16T18:06:54.168Z [req] GET /favicon.png -> 404 (0.4 ms)
+GET / 200 2390 - 0.555 ms
+2025-10-16T18:06:54.828Z [req] GET / -> 200 (0.9 ms)
+GET /Logo-NoBg.png 404 152 - 0.186 ms
+2025-10-16T18:06:54.845Z [req] GET /Logo-NoBg.png -> 404 (0.5 ms)
+GET /favicon.png 404 150 - 0.192 ms
+2025-10-16T18:06:54.855Z [req] GET /favicon.png -> 404 (1.0 ms)
+GET / 200 2390 - 0.751 ms
+2025-10-16T18:06:55.284Z [req] GET / -> 200 (1.0 ms)
+GET /Logo-NoBg.png 404 152 - 0.131 ms
+2025-10-16T18:06:55.301Z [req] GET /Logo-NoBg.png -> 404 (0.4 ms)
+GET /favicon.png 404 150 - 0.158 ms
+2025-10-16T18:06:55.307Z [req] GET /favicon.png -> 404 (0.4 ms)
+GET / 304 - - 0.614 ms
+2025-10-16T18:07:04.252Z [req] GET / -> 304 (0.9 ms)
+GET /Logo-NoBg.png 404 152 - 0.122 ms
+2025-10-16T18:07:04.269Z [req] GET /Logo-NoBg.png -> 404 (0.3 ms)
+GET / 304 - - 0.661 ms
+2025-10-16T18:07:04.628Z [req] GET / -> 304 (0.9 ms)
+GET /Logo-NoBg.png 404 152 - 0.252 ms
+2025-10-16T18:07:04.646Z [req] GET /Logo-NoBg.png -> 404 (0.6 ms)
+GET / 304 - - 0.678 ms
+2025-10-16T18:07:04.778Z [req] GET / -> 304 (0.9 ms)
+GET /Logo-NoBg.png 404 152 - 0.122 ms
+2025-10-16T18:07:04.797Z [req] GET /Logo-NoBg.png -> 404 (0.4 ms)
+GET / 304 - - 0.721 ms
+2025-10-16T18:07:05.052Z [req] GET / -> 304 (1.0 ms)
+GET /Logo-NoBg.png 404 152 - 0.268 ms
+2025-10-16T18:07:05.069Z [req] GET /Logo-NoBg.png -> 404 (0.6 ms)
+GET / 304 - - 0.496 ms
+2025-10-16T18:07:05.194Z [req] GET / -> 304 (0.7 ms)
+GET /Logo-NoBg.png 404 152 - 0.140 ms
+2025-10-16T18:07:05.212Z [req] GET /Logo-NoBg.png -> 404 (0.4 ms)
+GET / 304 - - 0.813 ms
+2025-10-16T18:07:05.340Z [req] GET / -> 304 (1.0 ms)
+GET /Logo-NoBg.png 404 152 - 0.187 ms
+2025-10-16T18:07:05.355Z [req] GET /Logo-NoBg.png -> 404 (0.4 ms)
+GET / 304 - - 0.500 ms
+2025-10-16T18:07:05.484Z [req] GET / -> 304 (0.7 ms)
+GET /Logo-NoBg.png 404 152 - 0.126 ms
+2025-10-16T18:07:05.501Z [req] GET /Logo-NoBg.png -> 404 (0.4 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.225 ms
+2025-10-16T18:07:06.978Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.5 ms)
+GET / 304 - - 0.543 ms
+2025-10-16T18:08:27.634Z [req] GET / -> 304 (0.8 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.253 ms
+2025-10-16T18:08:27.651Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.6 ms)
+GET /Logo-NoBg.png 404 152 - 0.234 ms
+2025-10-16T18:08:27.656Z [req] GET /Logo-NoBg.png -> 404 (0.6 ms)
+GET / 304 - - 0.542 ms
+2025-10-16T18:08:28.241Z [req] GET / -> 304 (0.8 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.254 ms
+2025-10-16T18:08:28.258Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.6 ms)
+GET /Logo-NoBg.png 404 152 - 0.181 ms
+2025-10-16T18:08:28.263Z [req] GET /Logo-NoBg.png -> 404 (0.5 ms)
+GET / 304 - - 0.542 ms
+2025-10-16T18:08:28.426Z [req] GET / -> 304 (0.8 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.214 ms
+2025-10-16T18:08:28.444Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.5 ms)
+GET /Logo-NoBg.png 404 152 - 0.141 ms
+2025-10-16T18:08:28.452Z [req] GET /Logo-NoBg.png -> 404 (0.4 ms)
+GET / 304 - - 0.554 ms
+2025-10-16T18:08:28.570Z [req] GET / -> 304 (0.8 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.280 ms
+2025-10-16T18:08:28.584Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.6 ms)
+GET /Logo-NoBg.png 404 152 - 0.206 ms
+2025-10-16T18:08:28.589Z [req] GET /Logo-NoBg.png -> 404 (0.6 ms)
+GET / 304 - - 0.502 ms
+2025-10-16T18:08:28.688Z [req] GET / -> 304 (0.7 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.154 ms
+2025-10-16T18:08:28.702Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.4 ms)
+GET /Logo-NoBg.png 404 152 - 0.113 ms
+2025-10-16T18:08:28.708Z [req] GET /Logo-NoBg.png -> 404 (0.4 ms)
+GET / 304 - - 0.505 ms
+2025-10-16T18:08:28.824Z [req] GET / -> 304 (0.7 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.217 ms
+2025-10-16T18:08:28.842Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.6 ms)
+GET /Logo-NoBg.png 404 152 - 0.138 ms
+2025-10-16T18:08:28.846Z [req] GET /Logo-NoBg.png -> 404 (0.5 ms)
+GET / 200 2390 - 0.477 ms
+2025-10-16T18:08:29.105Z [req] GET / -> 200 (0.7 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.170 ms
+2025-10-16T18:08:29.122Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.4 ms)
+GET /Logo-NoBg.png 404 152 - 0.193 ms
+2025-10-16T18:08:29.130Z [req] GET /Logo-NoBg.png -> 404 (0.6 ms)
+GET /favicon.png 404 150 - 0.123 ms
+2025-10-16T18:08:29.140Z [req] GET /favicon.png -> 404 (0.3 ms)
+GET / 200 2390 - 0.728 ms
+2025-10-16T18:08:29.387Z [req] GET / -> 200 (0.9 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.220 ms
+2025-10-16T18:08:29.404Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.4 ms)
+GET /Logo-NoBg.png 404 152 - 0.193 ms
+2025-10-16T18:08:29.415Z [req] GET /Logo-NoBg.png -> 404 (0.5 ms)
+GET /favicon.png 404 150 - 0.126 ms
+2025-10-16T18:08:29.427Z [req] GET /favicon.png -> 404 (0.4 ms)
+GET / 200 2390 - 0.538 ms
+2025-10-16T18:08:29.761Z [req] GET / -> 200 (0.8 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.160 ms
+2025-10-16T18:08:29.775Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.4 ms)
+GET /Logo-NoBg.png 404 152 - 0.190 ms
+2025-10-16T18:08:29.783Z [req] GET /Logo-NoBg.png -> 404 (0.5 ms)
+GET /favicon.png 404 150 - 0.158 ms
+2025-10-16T18:08:29.791Z [req] GET /favicon.png -> 404 (0.5 ms)
+GET / 304 - - 0.563 ms
+2025-10-16T18:09:03.316Z [req] GET / -> 304 (0.8 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.218 ms
+2025-10-16T18:09:03.327Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.5 ms)
+GET / 304 - - 0.632 ms
+2025-10-16T18:09:04.460Z [req] GET / -> 304 (0.9 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.193 ms
+2025-10-16T18:09:04.476Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.5 ms)
+GET / 304 - - 0.511 ms
+2025-10-16T18:09:11.829Z [req] GET / -> 304 (0.8 ms)
+GET / 304 - - 0.541 ms
+2025-10-16T18:09:12.066Z [req] GET / -> 304 (0.8 ms)
+GET / 304 - - 0.629 ms
+2025-10-16T18:09:12.236Z [req] GET / -> 304 (1.1 ms)
+GET / 304 - - 0.614 ms
+2025-10-16T18:09:12.338Z [req] GET / -> 304 (0.8 ms)
+GET / 200 2390 - 0.574 ms
+2025-10-16T18:09:12.580Z [req] GET / -> 200 (0.8 ms)
+GET / 200 2390 - 0.471 ms
+2025-10-16T18:09:12.786Z [req] GET / -> 200 (0.7 ms)
+GET / 200 2390 - 0.657 ms
+2025-10-16T18:09:12.973Z [req] GET / -> 200 (0.9 ms)
+GET / 200 2390 - 0.692 ms
+2025-10-16T18:09:13.117Z [req] GET / -> 200 (1.0 ms)
+GET / 304 - - 0.584 ms
+2025-10-16T18:10:16.862Z [req] GET / -> 304 (0.9 ms)
+GET / 304 - - 0.658 ms
+2025-10-16T18:10:17.630Z [req] GET / -> 304 (0.9 ms)
+GET / 304 - - 0.466 ms
+2025-10-16T18:10:18.785Z [req] GET / -> 304 (0.7 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.263 ms
+2025-10-16T18:10:20.898Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.4 ms)
+GET / 304 - - 0.680 ms
+2025-10-16T18:14:50.283Z [req] GET / -> 304 (1.0 ms)
+2025-10-16T18:16:41.387Z Received SIGINT (Ctrl+C). Shutting down...
+2025-10-16T18:16:42.657Z Lyric-Finder listening on http://localhost:3000
+GET / 200 2415 - 7.305 ms
+2025-10-16T18:16:45.209Z [req] GET / -> 200 (9.1 ms)
+GET / 304 - - 1.651 ms
+2025-10-16T18:16:46.555Z [req] GET / -> 304 (2.2 ms)
+GET / 304 - - 0.693 ms
+2025-10-16T18:16:46.938Z [req] GET / -> 304 (1.0 ms)
+GET / 304 - - 0.706 ms
+2025-10-16T18:16:47.394Z [req] GET / -> 304 (1.0 ms)
+GET / 304 - - 0.627 ms
+2025-10-16T18:16:48.938Z [req] GET / -> 304 (1.0 ms)
+GET / 304 - - 1.121 ms
+2025-10-16T18:18:28.904Z [req] GET / -> 304 (1.5 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.779 ms
+2025-10-16T18:18:31.514Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (1.1 ms)
+GET / 304 - - 0.715 ms
+2025-10-16T18:19:13.444Z [req] GET / -> 304 (1.2 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.286 ms
+2025-10-16T18:19:19.977Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.7 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.224 ms
+2025-10-16T18:19:24.816Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.6 ms)

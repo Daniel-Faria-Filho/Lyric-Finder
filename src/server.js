@@ -69,6 +69,15 @@ app.use((req, res, next) => {
 });
 
 // Routes
+// Serve root-level brand assets if not in /public
+app.get(['/Logo-NoBg.png','/Logo.png','/favicon.png'], (req, res, next) => {
+  try {
+    return res.sendFile(path.join(__dirname, '..', req.path.replace(/^\//, '')));
+  } catch (_) {
+    return next();
+  }
+});
+
 app.get('/', (req, res) => {
   res.render('index', { lyrics: null, error: null, query: { song: '' } });
 });
