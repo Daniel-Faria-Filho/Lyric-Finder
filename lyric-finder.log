@@ -1,0 +1,422 @@
+2025-10-16T17:02:35.393Z Lyric-Finder listening on http://localhost:3000
+2025-10-16T17:02:47.317Z Lyric-Finder listening on http://localhost:3000
+2025-10-16T17:05:30.610Z Lyric-Finder listening on http://localhost:3000
+GET / 304 - - 6.672 ms
+2025-10-16T17:05:33.072Z [req] GET / -> 304 (8.5 ms)
+2025-10-16T17:05:42.511Z [mgto8967p80re] incoming query: Bad Dreams
+2025-10-16T17:05:42.511Z [mgto8967p80re] parsed query: {"title":"Bad Dreams","artist":null}
+2025-10-16T17:05:44.654Z [mgto8967p80re] lyrics-finder result: none
+2025-10-16T17:05:45.177Z [mgto8967p80re] genius search results: 5
+2025-10-16T17:05:45.177Z [mgto8967p80re]   [0] Bad Dreams — Teddy Swims (10839818)
+2025-10-16T17:05:45.177Z [mgto8967p80re]   [1] Bad Dreams (Piano Version) — Faouzia (3948138)
+2025-10-16T17:05:45.178Z [mgto8967p80re]   [2] Teddy Swims - Bad Dreams (Deutsche Übersetzung) — Genius Deutsche Übersetzungen (10880282)
+2025-10-16T17:05:45.178Z [mgto8967p80re]   [3] Bad Dreams — Faouzia (4981952)
+2025-10-16T17:05:45.178Z [mgto8967p80re]   [4] Bad Dreams — Joywave (821602)
+2025-10-16T17:05:45.178Z [mgto8967p80re] genius chosen: Bad Dreams — Teddy Swims
+2025-10-16T17:05:45.551Z [mgto8967p80re] genius lyrics: found (1558 chars)
+2025-10-16T17:05:45.551Z [mgto8967p80re] total lookup time: 3040ms
+POST /lyrics 200 3155 - 3042.180 ms
+2025-10-16T17:05:45.553Z [req] POST /lyrics -> 200 (3042.5 ms)
+2025-10-16T17:06:06.935Z [mgto8s0naqq3u] incoming query: Bad Dreams Teddy Swims
+2025-10-16T17:06:06.935Z [mgto8s0naqq3u] parsed query: {"title":"Bad Dreams Teddy Swims","artist":null}
+2025-10-16T17:06:09.476Z [mgto8s0naqq3u] lyrics-finder result: none
+2025-10-16T17:06:09.886Z [mgto8s0naqq3u] genius search results: 5
+2025-10-16T17:06:09.886Z [mgto8s0naqq3u]   [0] Bad Dreams — Teddy Swims (10839818)
+2025-10-16T17:06:09.886Z [mgto8s0naqq3u]   [1] Bad Dreams (Acoustic) — Teddy Swims (11086339)
+2025-10-16T17:06:09.886Z [mgto8s0naqq3u]   [2] Bad Dreams (HUGEL Remix) — Teddy Swims (11715022)
+2025-10-16T17:06:09.886Z [mgto8s0naqq3u]   [3] Teddy Swims - Bad Dreams (Deutsche Übersetzung) — Genius Deutsche Übersetzungen (10880282)
+2025-10-16T17:06:09.886Z [mgto8s0naqq3u]   [4] Teddy Swims - Bad Dreams (Український переклад) — Genius Ukrainian Translations (Українські переклади) (10879962)
+2025-10-16T17:06:09.887Z [mgto8s0naqq3u] genius chosen: Bad Dreams — Teddy Swims
+2025-10-16T17:06:10.163Z [mgto8s0naqq3u] genius lyrics: found (1558 chars)
+2025-10-16T17:06:10.163Z [mgto8s0naqq3u] total lookup time: 3228ms
+POST /lyrics 200 3167 - 3230.077 ms
+2025-10-16T17:06:10.165Z [req] POST /lyrics -> 200 (3230.3 ms)
+2025-10-16T17:06:25.623Z [mgto96frryrov] incoming query: How Great Is Our God
+2025-10-16T17:06:25.623Z [mgto96frryrov] parsed query: {"title":"How Great Is Our God","artist":null}
+2025-10-16T17:06:27.732Z [mgto96frryrov] lyrics-finder result: none
+2025-10-16T17:06:28.127Z [mgto96frryrov] genius search results: 5
+2025-10-16T17:06:28.127Z [mgto96frryrov]   [0] How Great Is Our God — Chris Tomlin (203978)
+2025-10-16T17:06:28.128Z [mgto96frryrov]   [1] How Great Is Our God (World Edition) — Chris Tomlin (215045)
+2025-10-16T17:06:28.128Z [mgto96frryrov]   [2] How Great Is Our God — Hillsong London (923874)
+2025-10-16T17:06:28.128Z [mgto96frryrov]   [3] Gadol Elohai / How Great Is Our God — Joshua Aaron (2248137)
+2025-10-16T17:06:28.128Z [mgto96frryrov]   [4] How Great Is Our God — Bishop Paul S. Morton (1985246)
+2025-10-16T17:06:28.128Z [mgto96frryrov] genius chosen: How Great Is Our God — Chris Tomlin
+2025-10-16T17:06:28.472Z [mgto96frryrov] genius lyrics: found (1090 chars)
+2025-10-16T17:06:28.472Z [mgto96frryrov] total lookup time: 2849ms
+POST /lyrics 200 2641 - 2850.262 ms
+2025-10-16T17:06:28.474Z [req] POST /lyrics -> 200 (2850.6 ms)
+2025-10-16T17:09:08.764Z Received SIGINT (Ctrl+C). Shutting down...
+2025-10-16T17:09:11.145Z Lyric-Finder listening on http://localhost:3000
+2025-10-16T17:09:16.036Z [mgtoctxgtgf5h] incoming query: How Great Is Our God
+2025-10-16T17:09:16.037Z [mgtoctxgtgf5h] parsed query: {"title":"How Great Is Our God","artist":null}
+2025-10-16T17:09:17.778Z [mgtoctxgtgf5h] lyrics-finder result: none
+2025-10-16T17:09:18.104Z [mgtoctxgtgf5h] genius search results: 5
+2025-10-16T17:09:18.104Z [mgtoctxgtgf5h]   [0] How Great Is Our God — Chris Tomlin (203978)
+2025-10-16T17:09:18.104Z [mgtoctxgtgf5h]   [1] How Great Is Our God (World Edition) — Chris Tomlin (215045)
+2025-10-16T17:09:18.105Z [mgtoctxgtgf5h]   [2] How Great Is Our God — Hillsong London (923874)
+2025-10-16T17:09:18.105Z [mgtoctxgtgf5h]   [3] Gadol Elohai / How Great Is Our God — Joshua Aaron (2248137)
+2025-10-16T17:09:18.105Z [mgtoctxgtgf5h]   [4] How Great Is Our God — Bishop Paul S. Morton (1985246)
+2025-10-16T17:09:18.105Z [mgtoctxgtgf5h] genius chosen: How Great Is Our God — Chris Tomlin
+2025-10-16T17:09:18.381Z [mgtoctxgtgf5h] genius lyrics: found (1090 chars)
+2025-10-16T17:09:18.381Z [mgtoctxgtgf5h] total lookup time: 2344ms
+POST /lyrics 200 2577 - 2350.193 ms
+2025-10-16T17:09:18.389Z [req] POST /lyrics -> 200 (2352.8 ms)
+2025-10-16T17:09:26.580Z [mgtod22c5k8kz] incoming query: How Great Is Our God
+2025-10-16T17:09:26.580Z [mgtod22c5k8kz] parsed query: {"title":"How Great Is Our God","artist":null}
+2025-10-16T17:09:28.700Z [mgtod22c5k8kz] lyrics-finder result: none
+2025-10-16T17:09:29.186Z [mgtod22c5k8kz] genius search results: 5
+2025-10-16T17:09:29.187Z [mgtod22c5k8kz]   [0] How Great Is Our God — Chris Tomlin (203978)
+2025-10-16T17:09:29.187Z [mgtod22c5k8kz]   [1] How Great Is Our God (World Edition) — Chris Tomlin (215045)
+2025-10-16T17:09:29.187Z [mgtod22c5k8kz]   [2] How Great Is Our God — Hillsong London (923874)
+2025-10-16T17:09:29.187Z [mgtod22c5k8kz]   [3] Gadol Elohai / How Great Is Our God — Joshua Aaron (2248137)
+2025-10-16T17:09:29.187Z [mgtod22c5k8kz]   [4] How Great Is Our God — Bishop Paul S. Morton (1985246)
+2025-10-16T17:09:29.187Z [mgtod22c5k8kz] genius chosen: How Great Is Our God — Chris Tomlin
+2025-10-16T17:09:29.519Z [mgtod22c5k8kz] genius lyrics: found (1090 chars)
+2025-10-16T17:09:29.519Z [mgtod22c5k8kz] total lookup time: 2939ms
+POST /lyrics 200 2577 - 2940.414 ms
+2025-10-16T17:09:29.521Z [req] POST /lyrics -> 200 (2940.6 ms)
+GET / 304 - - 0.756 ms
+2025-10-16T17:09:30.988Z [req] GET / -> 304 (1.2 ms)
+2025-10-16T17:09:36.780Z [mgtod9xoft3f6] incoming query: How Great Is Our God
+2025-10-16T17:09:36.780Z [mgtod9xoft3f6] parsed query: {"title":"How Great Is Our God","artist":null}
+2025-10-16T17:09:39.068Z [mgtod9xoft3f6] lyrics-finder result: none
+2025-10-16T17:09:39.440Z [mgtod9xoft3f6] genius search results: 5
+2025-10-16T17:09:39.440Z [mgtod9xoft3f6]   [0] How Great Is Our God — Chris Tomlin (203978)
+2025-10-16T17:09:39.440Z [mgtod9xoft3f6]   [1] How Great Is Our God (World Edition) — Chris Tomlin (215045)
+2025-10-16T17:09:39.441Z [mgtod9xoft3f6]   [2] How Great Is Our God — Hillsong London (923874)
+2025-10-16T17:09:39.441Z [mgtod9xoft3f6]   [3] Gadol Elohai / How Great Is Our God — Joshua Aaron (2248137)
+2025-10-16T17:09:39.441Z [mgtod9xoft3f6]   [4] How Great Is Our God — Bishop Paul S. Morton (1985246)
+2025-10-16T17:09:39.441Z [mgtod9xoft3f6] genius chosen: How Great Is Our God — Chris Tomlin
+2025-10-16T17:09:39.742Z [mgtod9xoft3f6] genius lyrics: found (1090 chars)
+2025-10-16T17:09:39.742Z [mgtod9xoft3f6] total lookup time: 2962ms
+POST /lyrics 200 2577 - 2963.245 ms
+2025-10-16T17:09:39.743Z [req] POST /lyrics -> 200 (2963.5 ms)
+2025-10-16T17:12:26.479Z Received SIGINT (Ctrl+C). Shutting down...
+2025-10-16T17:12:28.177Z Lyric-Finder listening on http://localhost:3000
+GET / 304 - - 5.362 ms
+2025-10-16T17:12:32.856Z [req] GET / -> 304 (6.4 ms)
+2025-10-16T17:12:37.751Z [mgtoh5knm2pb0] incoming query: How Great Is Our God
+2025-10-16T17:12:37.752Z [mgtoh5knm2pb0] parsed query: {"title":"How Great Is Our God","artist":null}
+2025-10-16T17:12:40.010Z [mgtoh5knm2pb0] lyrics-finder result: none
+2025-10-16T17:12:40.433Z [mgtoh5knm2pb0] genius search results: 5
+2025-10-16T17:12:40.433Z [mgtoh5knm2pb0]   [0] How Great Is Our God — Chris Tomlin (203978)
+2025-10-16T17:12:40.433Z [mgtoh5knm2pb0]   [1] How Great Is Our God (World Edition) — Chris Tomlin (215045)
+2025-10-16T17:12:40.433Z [mgtoh5knm2pb0]   [2] How Great Is Our God — Hillsong London (923874)
+2025-10-16T17:12:40.433Z [mgtoh5knm2pb0]   [3] Gadol Elohai / How Great Is Our God — Joshua Aaron (2248137)
+2025-10-16T17:12:40.433Z [mgtoh5knm2pb0]   [4] How Great Is Our God — Bishop Paul S. Morton (1985246)
+2025-10-16T17:12:40.433Z [mgtoh5knm2pb0] genius chosen: How Great Is Our God — Chris Tomlin
+2025-10-16T17:12:40.802Z [mgtoh5knm2pb0] genius lyrics: found (1090 chars)
+2025-10-16T17:12:40.802Z [mgtoh5knm2pb0] total lookup time: 3050ms
+POST /lyrics 200 2168 - 3052.554 ms
+2025-10-16T17:12:40.804Z [req] POST /lyrics -> 200 (3053.2 ms)
+2025-10-16T17:15:30.924Z Received SIGINT (Ctrl+C). Shutting down...
+2025-10-16T17:15:32.761Z Lyric-Finder listening on http://localhost:3000
+GET / 304 - - 6.165 ms
+2025-10-16T17:15:38.248Z [req] GET / -> 304 (7.4 ms)
+2025-10-16T17:15:45.092Z [mgtol64ky68ju] incoming query: How Great Is Our God
+2025-10-16T17:15:45.092Z [mgtol64ky68ju] parsed query: {"title":"How Great Is Our God","artist":null}
+2025-10-16T17:15:47.266Z [mgtol64ky68ju] lyrics-finder result: none
+2025-10-16T17:15:47.849Z [mgtol64ky68ju] genius search results: 5
+2025-10-16T17:15:47.849Z [mgtol64ky68ju]   [0] How Great Is Our God — Chris Tomlin (203978)
+2025-10-16T17:15:47.849Z [mgtol64ky68ju]   [1] How Great Is Our God (World Edition) — Chris Tomlin (215045)
+2025-10-16T17:15:47.849Z [mgtol64ky68ju]   [2] How Great Is Our God — Hillsong London (923874)
+2025-10-16T17:15:47.849Z [mgtol64ky68ju]   [3] Gadol Elohai / How Great Is Our God — Joshua Aaron (2248137)
+2025-10-16T17:15:47.849Z [mgtol64ky68ju]   [4] How Great Is Our God — Bishop Paul S. Morton (1985246)
+2025-10-16T17:15:47.849Z [mgtol64ky68ju] genius chosen: How Great Is Our God — Chris Tomlin
+2025-10-16T17:15:48.139Z [mgtol64ky68ju] genius lyrics: found (1090 chars)
+2025-10-16T17:15:48.139Z [mgtol64ky68ju] total lookup time: 3047ms
+POST /lyrics 200 2168 - 3048.905 ms
+2025-10-16T17:15:48.141Z [req] POST /lyrics -> 200 (3049.2 ms)
+2025-10-16T17:17:35.003Z Received SIGINT (Ctrl+C). Shutting down...
+2025-10-16T17:17:37.996Z Lyric-Finder listening on http://localhost:3000
+GET / 304 - - 5.880 ms
+2025-10-16T17:17:48.338Z [req] GET / -> 304 (7.0 ms)
+2025-10-16T17:17:52.244Z [mgtonw8kaa0cj] incoming query: How Great is our god
+2025-10-16T17:17:52.244Z [mgtonw8kaa0cj] parsed query: {"title":"How Great is our god","artist":null}
+2025-10-16T17:17:54.952Z [mgtonw8kaa0cj] lyrics-finder result: none
+2025-10-16T17:17:55.615Z [mgtonw8kaa0cj] genius search results: 5
+2025-10-16T17:17:55.615Z [mgtonw8kaa0cj]   [0] How Great Is Our God — Chris Tomlin (203978)
+2025-10-16T17:17:55.615Z [mgtonw8kaa0cj]   [1] How Great Is Our God (World Edition) — Chris Tomlin (215045)
+2025-10-16T17:17:55.615Z [mgtonw8kaa0cj]   [2] How Great Is Our God — Hillsong London (923874)
+2025-10-16T17:17:55.615Z [mgtonw8kaa0cj]   [3] Gadol Elohai / How Great Is Our God — Joshua Aaron (2248137)
+2025-10-16T17:17:55.615Z [mgtonw8kaa0cj]   [4] How Great Is Our God — Bishop Paul S. Morton (1985246)
+2025-10-16T17:17:55.615Z [mgtonw8kaa0cj] genius chosen: How Great Is Our God — Chris Tomlin
+2025-10-16T17:17:56.254Z [mgtonw8kaa0cj] genius lyrics: found (1090 chars)
+2025-10-16T17:17:56.255Z [mgtonw8kaa0cj] total lookup time: 4010ms
+POST /lyrics 200 2052 - 4012.753 ms
+2025-10-16T17:17:56.257Z [req] POST /lyrics -> 200 (4013.1 ms)
+2025-10-16T17:19:24.034Z Received SIGINT (Ctrl+C). Shutting down...
+2025-10-16T17:19:25.786Z Lyric-Finder listening on http://localhost:3000
+2025-10-16T17:19:28.598Z [mgtopyl2nsr8g] incoming query: How Great is our god
+2025-10-16T17:19:28.598Z [mgtopyl2nsr8g] parsed query: {"title":"How Great is our god","artist":null}
+2025-10-16T17:19:30.746Z [mgtopyl2nsr8g] lyrics-finder result: none
+2025-10-16T17:19:31.172Z [mgtopyl2nsr8g] genius search results: 5
+2025-10-16T17:19:31.172Z [mgtopyl2nsr8g]   [0] How Great Is Our God — Chris Tomlin (203978)
+2025-10-16T17:19:31.172Z [mgtopyl2nsr8g]   [1] How Great Is Our God (World Edition) — Chris Tomlin (215045)
+2025-10-16T17:19:31.172Z [mgtopyl2nsr8g]   [2] How Great Is Our God — Hillsong London (923874)
+2025-10-16T17:19:31.172Z [mgtopyl2nsr8g]   [3] Gadol Elohai / How Great Is Our God — Joshua Aaron (2248137)
+2025-10-16T17:19:31.173Z [mgtopyl2nsr8g]   [4] How Great Is Our God — Bishop Paul S. Morton (1985246)
+2025-10-16T17:19:31.173Z [mgtopyl2nsr8g] genius chosen: How Great Is Our God — Chris Tomlin
+2025-10-16T17:19:31.445Z [mgtopyl2nsr8g] genius lyrics: found (1090 chars)
+2025-10-16T17:19:31.445Z [mgtopyl2nsr8g] total lookup time: 2847ms
+POST /lyrics 200 2641 - 2853.271 ms
+2025-10-16T17:19:31.452Z [req] POST /lyrics -> 200 (2854.2 ms)
+2025-10-16T17:20:06.842Z [mgtoqs3epg82d] incoming query: Happy Day
+2025-10-16T17:20:06.842Z [mgtoqs3epg82d] parsed query: {"title":"Happy Day","artist":null}
+2025-10-16T17:20:08.718Z [mgtoqs3epg82d] lyrics-finder result: none
+2025-10-16T17:20:09.598Z [mgtoqs3epg82d] genius search results: 5
+2025-10-16T17:20:09.598Z [mgtoqs3epg82d]   [0] Oh Happy Day — Edwin Hawkins (1262438)
+2025-10-16T17:20:09.599Z [mgtoqs3epg82d]   [1] Happy Days — Ghali (3080610)
+2025-10-16T17:20:09.599Z [mgtoqs3epg82d]   [2] Happy Day (Live) — Jesus Culture (2046201)
+2025-10-16T17:20:09.599Z [mgtoqs3epg82d]   [3] Oh Happy Day — Sister Act 2 Cast (3925018)
+2025-10-16T17:20:09.599Z [mgtoqs3epg82d]   [4] Happy Day in Hell — Erika Henningsen (9623633)
+2025-10-16T17:20:09.599Z [mgtoqs3epg82d] genius chosen: Oh Happy Day — Edwin Hawkins
+2025-10-16T17:20:09.965Z [mgtoqs3epg82d] genius lyrics: found (1244 chars)
+2025-10-16T17:20:09.966Z [mgtoqs3epg82d] total lookup time: 3124ms
+POST /lyrics 200 2783 - 3125.494 ms
+2025-10-16T17:20:09.968Z [req] POST /lyrics -> 200 (3125.8 ms)
+2025-10-16T17:20:29.932Z [mgtor9ws8idz2] incoming query: How Great it Our God
+2025-10-16T17:20:29.932Z [mgtor9ws8idz2] parsed query: {"title":"How Great it Our God","artist":null}
+2025-10-16T17:20:32.299Z [mgtor9ws8idz2] lyrics-finder result: none
+2025-10-16T17:20:32.768Z [mgtor9ws8idz2] genius search results: 0
+2025-10-16T17:20:32.768Z [mgtor9ws8idz2] total lookup time: 2836ms
+POST /lyrics 200 1329 - 2837.002 ms
+2025-10-16T17:20:32.769Z [req] POST /lyrics -> 200 (2837.3 ms)
+2025-10-16T17:20:37.788Z [mgtorfz09788b] incoming query: How Great is Our God
+2025-10-16T17:20:37.788Z [mgtorfz09788b] parsed query: {"title":"How Great is Our God","artist":null}
+2025-10-16T17:20:39.768Z [mgtorfz09788b] lyrics-finder result: none
+2025-10-16T17:20:40.187Z [mgtorfz09788b] genius search results: 5
+2025-10-16T17:20:40.187Z [mgtorfz09788b]   [0] How Great Is Our God — Chris Tomlin (203978)
+2025-10-16T17:20:40.187Z [mgtorfz09788b]   [1] How Great Is Our God (World Edition) — Chris Tomlin (215045)
+2025-10-16T17:20:40.187Z [mgtorfz09788b]   [2] How Great Is Our God — Hillsong London (923874)
+2025-10-16T17:20:40.187Z [mgtorfz09788b]   [3] Gadol Elohai / How Great Is Our God — Joshua Aaron (2248137)
+2025-10-16T17:20:40.187Z [mgtorfz09788b]   [4] How Great Is Our God — Bishop Paul S. Morton (1985246)
+2025-10-16T17:20:40.187Z [mgtorfz09788b] genius chosen: How Great Is Our God — Chris Tomlin
+2025-10-16T17:20:40.487Z [mgtorfz09788b] genius lyrics: found (1090 chars)
+2025-10-16T17:20:40.488Z [mgtorfz09788b] total lookup time: 2700ms
+POST /lyrics 200 2641 - 2700.186 ms
+2025-10-16T17:20:40.489Z [req] POST /lyrics -> 200 (2700.6 ms)
+2025-10-16T17:23:09.617Z Received SIGINT (Ctrl+C). Shutting down...
+2025-10-16T17:23:11.029Z Lyric-Finder listening on http://localhost:3000
+2025-10-16T17:23:15.690Z [mgtoutt6cpkbp] incoming query: How Great is Our God
+2025-10-16T17:23:15.690Z [mgtoutt6cpkbp] parsed query: {"title":"How Great is Our God","artist":null}
+2025-10-16T17:23:17.522Z [mgtoutt6cpkbp] lyrics-finder result: none
+2025-10-16T17:23:18.082Z [mgtoutt6cpkbp] genius search results: 5
+2025-10-16T17:23:18.083Z [mgtoutt6cpkbp]   [0] How Great Is Our God — Chris Tomlin (203978)
+2025-10-16T17:23:18.083Z [mgtoutt6cpkbp]   [1] How Great Is Our God (World Edition) — Chris Tomlin (215045)
+2025-10-16T17:23:18.083Z [mgtoutt6cpkbp]   [2] How Great Is Our God — Hillsong London (923874)
+2025-10-16T17:23:18.083Z [mgtoutt6cpkbp]   [3] Gadol Elohai / How Great Is Our God — Joshua Aaron (2248137)
+2025-10-16T17:23:18.083Z [mgtoutt6cpkbp]   [4] How Great Is Our God — Bishop Paul S. Morton (1985246)
+2025-10-16T17:23:18.083Z [mgtoutt6cpkbp] genius chosen: How Great Is Our God — Chris Tomlin
+2025-10-16T17:23:18.466Z [mgtoutt6cpkbp] genius lyrics: found (1090 chars)
+2025-10-16T17:23:18.467Z [mgtoutt6cpkbp] total lookup time: 2777ms
+POST /lyrics 200 2641 - 2782.701 ms
+2025-10-16T17:23:18.473Z [req] POST /lyrics -> 200 (2783.4 ms)
+2025-10-16T17:23:25.891Z [mgtov1ojq15kz] incoming query: How Great is Our God
+2025-10-16T17:23:25.892Z [mgtov1ojq15kz] parsed query: {"title":"How Great is Our God","artist":null}
+2025-10-16T17:23:28.005Z [mgtov1ojq15kz] lyrics-finder result: none
+2025-10-16T17:23:28.602Z [mgtov1ojq15kz] genius search results: 5
+2025-10-16T17:23:28.603Z [mgtov1ojq15kz]   [0] How Great Is Our God — Chris Tomlin (203978)
+2025-10-16T17:23:28.603Z [mgtov1ojq15kz]   [1] How Great Is Our God (World Edition) — Chris Tomlin (215045)
+2025-10-16T17:23:28.603Z [mgtov1ojq15kz]   [2] How Great Is Our God — Hillsong London (923874)
+2025-10-16T17:23:28.603Z [mgtov1ojq15kz]   [3] Gadol Elohai / How Great Is Our God — Joshua Aaron (2248137)
+2025-10-16T17:23:28.603Z [mgtov1ojq15kz]   [4] How Great Is Our God — Bishop Paul S. Morton (1985246)
+2025-10-16T17:23:28.603Z [mgtov1ojq15kz] genius chosen: How Great Is Our God — Chris Tomlin
+2025-10-16T17:23:28.914Z [mgtov1ojq15kz] genius lyrics: found (1090 chars)
+2025-10-16T17:23:28.914Z [mgtov1ojq15kz] total lookup time: 3022ms
+POST /lyrics 200 2641 - 3023.869 ms
+2025-10-16T17:23:28.915Z [req] POST /lyrics -> 200 (3024.1 ms)
+2025-10-16T17:24:37.855Z Received SIGINT (Ctrl+C). Shutting down...
+2025-10-16T17:24:39.128Z Lyric-Finder listening on http://localhost:3000
+2025-10-16T17:24:43.992Z [mgtowpy0jxzkv] incoming query: How Great is Our God
+2025-10-16T17:24:43.992Z [mgtowpy0jxzkv] parsed query: {"title":"How Great is Our God","artist":null}
+2025-10-16T17:24:46.202Z [mgtowpy0jxzkv] lyrics-finder result: none
+2025-10-16T17:24:46.647Z [mgtowpy0jxzkv] genius search results: 5
+2025-10-16T17:24:46.648Z [mgtowpy0jxzkv]   [0] How Great Is Our God — Chris Tomlin (203978)
+2025-10-16T17:24:46.648Z [mgtowpy0jxzkv]   [1] How Great Is Our God (World Edition) — Chris Tomlin (215045)
+2025-10-16T17:24:46.648Z [mgtowpy0jxzkv]   [2] How Great Is Our God — Hillsong London (923874)
+2025-10-16T17:24:46.648Z [mgtowpy0jxzkv]   [3] Gadol Elohai / How Great Is Our God — Joshua Aaron (2248137)
+2025-10-16T17:24:46.648Z [mgtowpy0jxzkv]   [4] How Great Is Our God — Bishop Paul S. Morton (1985246)
+2025-10-16T17:24:46.648Z [mgtowpy0jxzkv] genius chosen: How Great Is Our God — Chris Tomlin
+2025-10-16T17:24:47.042Z [mgtowpy0jxzkv] genius lyrics: found (1090 chars)
+2025-10-16T17:24:47.042Z [mgtowpy0jxzkv] total lookup time: 3050ms
+2025-10-16T17:24:47.042Z [trim] Starting at [Verse 1] offset 259
+POST /lyrics 200 2373 - 3056.507 ms
+2025-10-16T17:24:47.049Z [req] POST /lyrics -> 200 (3057.5 ms)
+2025-10-16T17:25:17.912Z [mgtoxg48t2j80] incoming query: How Great is Our God
+2025-10-16T17:25:17.912Z [mgtoxg48t2j80] parsed query: {"title":"How Great is Our God","artist":null}
+2025-10-16T17:25:20.044Z [mgtoxg48t2j80] lyrics-finder result: none
+2025-10-16T17:25:20.721Z [mgtoxg48t2j80] genius search results: 5
+2025-10-16T17:25:20.722Z [mgtoxg48t2j80]   [0] How Great Is Our God — Chris Tomlin (203978)
+2025-10-16T17:25:20.722Z [mgtoxg48t2j80]   [1] How Great Is Our God (World Edition) — Chris Tomlin (215045)
+2025-10-16T17:25:20.722Z [mgtoxg48t2j80]   [2] How Great Is Our God — Hillsong London (923874)
+2025-10-16T17:25:20.722Z [mgtoxg48t2j80]   [3] Gadol Elohai / How Great Is Our God — Joshua Aaron (2248137)
+2025-10-16T17:25:20.722Z [mgtoxg48t2j80]   [4] How Great Is Our God — Bishop Paul S. Morton (1985246)
+2025-10-16T17:25:20.722Z [mgtoxg48t2j80] genius chosen: How Great Is Our God — Chris Tomlin
+2025-10-16T17:25:20.996Z [mgtoxg48t2j80] genius lyrics: found (1090 chars)
+2025-10-16T17:25:20.996Z [mgtoxg48t2j80] total lookup time: 3084ms
+2025-10-16T17:25:20.996Z [trim] Starting at [Verse 1] offset 259
+POST /lyrics 200 2373 - 3085.692 ms
+2025-10-16T17:25:20.998Z [req] POST /lyrics -> 200 (3086.0 ms)
+2025-10-16T17:25:47.650Z [mgtoy32aa3rvj] incoming query: How Great is Our God
+2025-10-16T17:25:47.650Z [mgtoy32aa3rvj] parsed query: {"title":"How Great is Our God","artist":null}
+2025-10-16T17:25:49.654Z [mgtoy32aa3rvj] lyrics-finder result: none
+2025-10-16T17:25:50.457Z [mgtoy32aa3rvj] genius search results: 5
+2025-10-16T17:25:50.457Z [mgtoy32aa3rvj]   [0] How Great Is Our God — Chris Tomlin (203978)
+2025-10-16T17:25:50.457Z [mgtoy32aa3rvj]   [1] How Great Is Our God (World Edition) — Chris Tomlin (215045)
+2025-10-16T17:25:50.457Z [mgtoy32aa3rvj]   [2] How Great Is Our God — Hillsong London (923874)
+2025-10-16T17:25:50.457Z [mgtoy32aa3rvj]   [3] Gadol Elohai / How Great Is Our God — Joshua Aaron (2248137)
+2025-10-16T17:25:50.457Z [mgtoy32aa3rvj]   [4] How Great Is Our God — Bishop Paul S. Morton (1985246)
+2025-10-16T17:25:50.458Z [mgtoy32aa3rvj] genius chosen: How Great Is Our God — Chris Tomlin
+2025-10-16T17:25:50.724Z [mgtoy32aa3rvj] genius lyrics: found (1090 chars)
+2025-10-16T17:25:50.725Z [mgtoy32aa3rvj] total lookup time: 3075ms
+2025-10-16T17:25:50.725Z [trim] Starting at [Verse 1] offset 259
+POST /lyrics 200 2373 - 3075.814 ms
+2025-10-16T17:25:50.726Z [req] POST /lyrics -> 200 (3076.1 ms)
+2025-10-16T17:26:36.492Z [mgtoz4r003ggk] incoming query: God Is Good Forrest Frank
+2025-10-16T17:26:36.492Z [mgtoz4r003ggk] parsed query: {"title":"God Is Good Forrest Frank","artist":null}
+2025-10-16T17:26:38.576Z [mgtoz4r003ggk] lyrics-finder result: none
+2025-10-16T17:26:39.085Z [mgtoz4r003ggk] genius search results: 2
+2025-10-16T17:26:39.085Z [mgtoz4r003ggk]   [0] GOD IS GOOD — Forrest Frank (10266978)
+2025-10-16T17:26:39.085Z [mgtoz4r003ggk]   [1] GOD IS GOOD (LOFI) — Forrest Frank (12533749)
+2025-10-16T17:26:39.085Z [mgtoz4r003ggk] genius chosen: GOD IS GOOD — Forrest Frank
+2025-10-16T17:26:39.593Z [mgtoz4r003ggk] genius lyrics: found (2817 chars)
+2025-10-16T17:26:39.593Z [mgtoz4r003ggk] total lookup time: 3101ms
+2025-10-16T17:26:39.593Z [trim] Starting at [Verse 1] offset 433
+POST /lyrics 200 4013 - 3102.376 ms
+2025-10-16T17:26:39.594Z [req] POST /lyrics -> 200 (3102.6 ms)
+2025-10-16T17:27:45.976Z [mgtp0md4w6q4g] incoming query: Forrest Frank God Is Good
+2025-10-16T17:27:45.976Z [mgtp0md4w6q4g] parsed query: {"title":"Forrest Frank God Is Good","artist":null}
+2025-10-16T17:27:47.495Z [mgtp0md4w6q4g] lyrics-finder result: none
+2025-10-16T17:27:47.941Z [mgtp0md4w6q4g] genius search results: 2
+2025-10-16T17:27:47.941Z [mgtp0md4w6q4g]   [0] GOD IS GOOD — Forrest Frank (10266978)
+2025-10-16T17:27:47.941Z [mgtp0md4w6q4g]   [1] GOD IS GOOD (LOFI) — Forrest Frank (12533749)
+2025-10-16T17:27:47.941Z [mgtp0md4w6q4g] genius chosen: GOD IS GOOD — Forrest Frank
+2025-10-16T17:27:48.254Z [mgtp0md4w6q4g] genius lyrics: found (2817 chars)
+2025-10-16T17:27:48.254Z [mgtp0md4w6q4g] total lookup time: 2278ms
+2025-10-16T17:27:48.254Z [trim] Starting at [Verse 1] offset 433
+POST /lyrics 200 4013 - 2278.885 ms
+2025-10-16T17:27:48.256Z [req] POST /lyrics -> 200 (2279.4 ms)
+2025-10-16T17:28:22.706Z [mgtp1epertmvc] incoming query: Praise
+2025-10-16T17:28:22.707Z [mgtp1epertmvc] parsed query: {"title":"Praise","artist":null}
+2025-10-16T17:28:24.964Z [mgtp1epertmvc] lyrics-finder result: none
+2025-10-16T17:28:25.677Z [mgtp1epertmvc] genius search results: 5
+2025-10-16T17:28:25.677Z [mgtp1epertmvc]   [0] Praise the Lord (Da Shine) — A$AP Rocky (3691324)
+2025-10-16T17:28:25.677Z [mgtp1epertmvc]   [1] Praise God — Kanye West (5780838)
+2025-10-16T17:28:25.677Z [mgtp1epertmvc]   [2] Praise — Elevation Worship (8776378)
+2025-10-16T17:28:25.677Z [mgtp1epertmvc]   [3] Praise Jah In The Moonlight — YG Marley (9927654)
+2025-10-16T17:28:25.677Z [mgtp1epertmvc]   [4] Every Praise — Hezekiah Walker (2345470)
+2025-10-16T17:28:25.677Z [mgtp1epertmvc] genius chosen: Praise the Lord (Da Shine) — A$AP Rocky
+2025-10-16T17:28:26.028Z [mgtp1epertmvc] genius lyrics: found (2999 chars)
+2025-10-16T17:28:26.028Z [mgtp1epertmvc] total lookup time: 3321ms
+2025-10-16T17:28:26.028Z [trim] [Verse 1] not found for provider genius
+POST /lyrics 200 4683 - 3322.685 ms
+2025-10-16T17:28:26.029Z [req] POST /lyrics -> 200 (3322.9 ms)
+2025-10-16T17:28:44.914Z [mgtp1vuan9lxn] incoming query: Awesome God
+2025-10-16T17:28:44.914Z [mgtp1vuan9lxn] parsed query: {"title":"Awesome God","artist":null}
+2025-10-16T17:28:47.102Z [mgtp1vuan9lxn] lyrics-finder result: none
+2025-10-16T17:28:47.912Z [mgtp1vuan9lxn] genius search results: 5
+2025-10-16T17:28:47.912Z [mgtp1vuan9lxn]   [0] Awesome God — Rich Mullins (272729)
+2025-10-16T17:28:47.912Z [mgtp1vuan9lxn]   [1] He Reigns / Awesome God — Kirk Franklin (1856715)
+2025-10-16T17:28:47.912Z [mgtp1vuan9lxn]   [2] Awesome God / God Only Knows (Campfire Medley) — Kevin Quinn (6618216)
+2025-10-16T17:28:47.912Z [mgtp1vuan9lxn]   [3] Awesome God — Hillsong UNITED (1145612)
+2025-10-16T17:28:47.913Z [mgtp1vuan9lxn]   [4] What An Awesome God — Phil Wickham (11665445)
+2025-10-16T17:28:47.913Z [mgtp1vuan9lxn] genius chosen: Awesome God — Rich Mullins
+2025-10-16T17:28:48.234Z [mgtp1vuan9lxn] genius lyrics: found (1887 chars)
+2025-10-16T17:28:48.234Z [mgtp1vuan9lxn] total lookup time: 3320ms
+2025-10-16T17:28:48.234Z [trim] Starting at [Verse 1] offset 250
+POST /lyrics 200 3190 - 3321.147 ms
+2025-10-16T17:28:48.235Z [req] POST /lyrics -> 200 (3321.4 ms)
+2025-10-16T17:29:07.061Z [mgtp2cxhamf7t] incoming query: Awesome God Michael W. Smith
+2025-10-16T17:29:07.061Z [mgtp2cxhamf7t] parsed query: {"title":"Awesome God Michael W. Smith","artist":null}
+2025-10-16T17:29:08.818Z [mgtp2cxhamf7t] lyrics-finder result: none
+2025-10-16T17:29:09.614Z [mgtp2cxhamf7t] genius search results: 3
+2025-10-16T17:29:09.615Z [mgtp2cxhamf7t]   [0] Awesome God — Michael W. Smith (3777963)
+2025-10-16T17:29:09.615Z [mgtp2cxhamf7t]   [1] Awesome God (Live) — Michael W. Smith (1692096)
+2025-10-16T17:29:09.615Z [mgtp2cxhamf7t]   [2] Awesome God (Live) [Worship Forever Version] — Michael W. Smith (7184242)
+2025-10-16T17:29:09.615Z [mgtp2cxhamf7t] genius chosen: Awesome God — Michael W. Smith
+2025-10-16T17:29:10.782Z [mgtp2cxhamf7t] genius lyrics: found (1184 chars)
+2025-10-16T17:29:10.783Z [mgtp2cxhamf7t] total lookup time: 3722ms
+2025-10-16T17:29:10.783Z [trim] [Verse 1] not found for provider genius
+POST /lyrics 200 2734 - 3722.877 ms
+2025-10-16T17:29:10.785Z [req] POST /lyrics -> 200 (3723.4 ms)
+2025-10-16T17:29:41.751Z [mgtp33p3ghri8] incoming query: Pour Out My Heart
+2025-10-16T17:29:41.751Z [mgtp33p3ghri8] parsed query: {"title":"Pour Out My Heart","artist":null}
+2025-10-16T17:29:43.847Z [mgtp33p3ghri8] lyrics-finder result: none
+2025-10-16T17:29:44.368Z [mgtp33p3ghri8] genius search results: 5
+2025-10-16T17:29:44.368Z [mgtp33p3ghri8]   [0] Pour Out My Heart — The Insyderz (1760754)
+2025-10-16T17:29:44.368Z [mgtp33p3ghri8]   [1] Pour Out My Heart — Everybodyduck (869743)
+2025-10-16T17:29:44.368Z [mgtp33p3ghri8]   [2] Pour Out My Heart — The Cockroaches (4589447)
+2025-10-16T17:29:44.368Z [mgtp33p3ghri8]   [3] Pour Out My Heart — ​catch the fire music (7930678)
+2025-10-16T17:29:44.368Z [mgtp33p3ghri8]   [4] Pour Out My Heart — Mr.Money (5409883)
+2025-10-16T17:29:44.368Z [mgtp33p3ghri8] genius chosen: Pour Out My Heart — The Insyderz
+2025-10-16T17:29:45.548Z [mgtp33p3ghri8] genius lyrics: found (521 chars)
+2025-10-16T17:29:45.548Z [mgtp33p3ghri8] total lookup time: 3797ms
+2025-10-16T17:29:45.549Z [trim] [Verse 1] not found for provider genius
+POST /lyrics 200 2072 - 3799.027 ms
+2025-10-16T17:29:45.550Z [req] POST /lyrics -> 200 (3799.3 ms)
+2025-10-16T17:30:46.523Z [mgtp4hobsshd1] incoming query: Amazing Grace
+2025-10-16T17:30:46.523Z [mgtp4hobsshd1] parsed query: {"title":"Amazing Grace","artist":null}
+2025-10-16T17:30:48.306Z [mgtp4hobsshd1] lyrics-finder result: none
+2025-10-16T17:30:49.273Z [mgtp4hobsshd1] genius search results: 5
+2025-10-16T17:30:49.273Z [mgtp4hobsshd1]   [0] Amazing Grace (My Chains Are Gone) — Chris Tomlin (1410586)
+2025-10-16T17:30:49.273Z [mgtp4hobsshd1]   [1] This Is Amazing Grace — Phil Wickham (526969)
+2025-10-16T17:30:49.273Z [mgtp4hobsshd1]   [2] Amazing Grace (My Chains Are Gone) [Live] — Passion (334417)
+2025-10-16T17:30:49.273Z [mgtp4hobsshd1]   [3] Amazing Grace — Religious Music / Hymns (107350)
+2025-10-16T17:30:49.273Z [mgtp4hobsshd1]   [4] Broken Vessels (Amazing Grace) [Live] — Hillsong Worship (665811)
+2025-10-16T17:30:49.273Z [mgtp4hobsshd1] genius chosen: Amazing Grace (My Chains Are Gone) — Chris Tomlin
+2025-10-16T17:30:49.656Z [mgtp4hobsshd1] genius lyrics: found (1272 chars)
+2025-10-16T17:30:49.656Z [mgtp4hobsshd1] total lookup time: 3133ms
+2025-10-16T17:30:49.656Z [trim] Starting at [Verse 1] offset 272
+POST /lyrics 200 2555 - 3133.920 ms
+2025-10-16T17:30:49.657Z [req] POST /lyrics -> 200 (3134.2 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.807 ms
+2025-10-16T17:30:58.409Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (1.4 ms)
+2025-10-16T17:32:54.294Z Received SIGINT (Ctrl+C). Shutting down...
+2025-10-16T17:32:55.636Z Lyric-Finder listening on http://localhost:3000
+GET / 200 1279 - 6.353 ms
+2025-10-16T17:33:00.653Z [req] GET / -> 200 (7.5 ms)
+GET / 200 1315 - 1.557 ms
+2025-10-16T17:35:41.625Z [req] GET / -> 200 (1.9 ms)
+GET / 304 - - 1.158 ms
+2025-10-16T17:35:42.411Z [req] GET / -> 304 (1.8 ms)
+2025-10-16T17:35:51.505Z [mgtpb101xmbgh] incoming query: how great is our god
+2025-10-16T17:35:51.505Z [mgtpb101xmbgh] parsed query: {"title":"how great is our god","artist":null}
+2025-10-16T17:35:53.575Z [mgtpb101xmbgh] lyrics-finder result: none
+2025-10-16T17:35:54.602Z [mgtpb101xmbgh] genius search results: 5
+2025-10-16T17:35:54.603Z [mgtpb101xmbgh]   [0] How Great Is Our God — Chris Tomlin (203978)
+2025-10-16T17:35:54.603Z [mgtpb101xmbgh]   [1] How Great Is Our God (World Edition) — Chris Tomlin (215045)
+2025-10-16T17:35:54.603Z [mgtpb101xmbgh]   [2] How Great Is Our God — Hillsong London (923874)
+2025-10-16T17:35:54.603Z [mgtpb101xmbgh]   [3] Gadol Elohai / How Great Is Our God — Joshua Aaron (2248137)
+2025-10-16T17:35:54.603Z [mgtpb101xmbgh]   [4] How Great Is Our God — Bishop Paul S. Morton (1985246)
+2025-10-16T17:35:54.603Z [mgtpb101xmbgh] genius chosen: How Great Is Our God — Chris Tomlin
+2025-10-16T17:35:55.094Z [mgtpb101xmbgh] genius lyrics: found (1090 chars)
+2025-10-16T17:35:55.094Z [mgtpb101xmbgh] total lookup time: 3589ms
+2025-10-16T17:35:55.095Z [trim] Starting at [Verse 1] offset 259
+POST /lyrics 200 2477 - 3591.159 ms
+2025-10-16T17:35:55.096Z [req] POST /lyrics -> 200 (3591.6 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.926 ms
+2025-10-16T17:36:12.803Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (1.4 ms)
+2025-10-16T17:36:34.783Z [mgtpbye7wn4pu] incoming query: how great is our god
+2025-10-16T17:36:34.783Z [mgtpbye7wn4pu] parsed query: {"title":"how great is our god","artist":null}
+2025-10-16T17:36:36.982Z [mgtpbye7wn4pu] lyrics-finder result: none
+2025-10-16T17:36:37.372Z [mgtpbye7wn4pu] genius search results: 5
+2025-10-16T17:36:37.372Z [mgtpbye7wn4pu]   [0] How Great Is Our God — Chris Tomlin (203978)
+2025-10-16T17:36:37.372Z [mgtpbye7wn4pu]   [1] How Great Is Our God (World Edition) — Chris Tomlin (215045)
+2025-10-16T17:36:37.372Z [mgtpbye7wn4pu]   [2] How Great Is Our God — Hillsong London (923874)
+2025-10-16T17:36:37.372Z [mgtpbye7wn4pu]   [3] Gadol Elohai / How Great Is Our God — Joshua Aaron (2248137)
+2025-10-16T17:36:37.373Z [mgtpbye7wn4pu]   [4] How Great Is Our God — Bishop Paul S. Morton (1985246)
+2025-10-16T17:36:37.373Z [mgtpbye7wn4pu] genius chosen: How Great Is Our God — Chris Tomlin
+2025-10-16T17:36:37.610Z [mgtpbye7wn4pu] genius lyrics: found (1090 chars)
+2025-10-16T17:36:37.610Z [mgtpbye7wn4pu] total lookup time: 2826ms
+2025-10-16T17:36:37.610Z [trim] Starting at [Verse 1] offset 259
+POST /lyrics 200 2477 - 2827.971 ms
+2025-10-16T17:36:37.612Z [req] POST /lyrics -> 200 (2828.3 ms)
+GET /about 200 1564 - 0.748 ms
+2025-10-16T17:40:25.000Z [req] GET /about -> 200 (1.1 ms)
+GET / 304 - - 0.630 ms
+2025-10-16T17:40:30.982Z [req] GET / -> 304 (0.9 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.333 ms
+2025-10-16T17:45:25.132Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.7 ms)
+GET /.well-known/appspecific/com.chrome.devtools.json 404 187 - 0.185 ms
+2025-10-16T17:45:27.077Z [req] GET /.well-known/appspecific/com.chrome.devtools.json -> 404 (0.6 ms)

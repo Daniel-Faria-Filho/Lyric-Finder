@@ -1,0 +1,14 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      # Enable multi-arch build on platforms that support it
+      # Use: docker compose build --platform linux/arm64 or linux/arm/v7 if needed
+    image: lyric-finder:latest
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+    restart: unless-stopped
+

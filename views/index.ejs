@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lyric-Finder</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <a class="brand" href="/">Lyric‑Finder</a>
+        <nav><a href="/about">About</a></nav>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="card">
+        <h1 class="title">Find lyrics instantly</h1>
+        <form class="search" action="/lyrics" method="post">
+          <input
+            class="input"
+            type="text"
+            name="song"
+            placeholder="Type song name (optionally include artist)"
+            value="<%= query?.song || '' %>"
+            autocomplete="off"
+            required
+          />
+          <button class="btn" type="submit">Get Lyrics</button>
+        </form>
+
+        <% if (error) { %>
+          <div class="alert"><%= error %></div>
+        <% } %>
+
+        <% if (lyrics) { %>
+          <div class="actions">
+            <button id="copyBtn" class="btn secondary" data-copy-target="#lyrics">Copy Lyrics</button>
+          </div>
+          <pre id="lyrics" class="lyrics"><%= lyrics %></pre>
+          <% if (typeof provider !== 'undefined' && provider) { %>
+            <p class="muted" style="margin-top:8px">Source: <%= provider %></p>
+          <% } %>
+        <% } %>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">Made with ❤️ for quick copy — Made by <a href="https://danielfaria.cc" target="_blank" rel="noopener noreferrer">Daniel Faria</a></div>
+    </footer>
+
+    <script src="/js/app.js"></script>
+  </body>
+  </html>
+
+
